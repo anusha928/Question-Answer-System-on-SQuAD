@@ -1,1 +1,2 @@
-data/
+data/glove.6B/
+data/*.json
