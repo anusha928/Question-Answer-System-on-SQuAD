@@ -1,2 +1,3 @@
 data/glove.6B/
 data/*.json
+data/*.DS_Store
